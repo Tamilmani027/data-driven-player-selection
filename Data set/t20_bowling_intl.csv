@@ -1,0 +1,76 @@
+POS,PLAYER,TEAM,MAT,OVERS,RUNS,WICKETS,BEST,4W,AVG,ECO
+1,Rashid Khan,Afghanistan,108,410.2,2492,182,05-Mar,9,13.69,6.07
+2,Tim Southee,New Zealand,126,458.5,3671,164,May-18,2,22.38,8
+3,Mustafizur Rahman,Bangladesh,126,455,3313,158,06-Oct,3,20.96,7.28
+4,Ish Sodhi,New Zealand,132,439.2,3508,157,04-Dec,4,22.34,7.98
+5,Shakib Al Hasan,Bangladesh,129,457.3,3117,149,May-20,6,20.91,6.81
+6,Wanindu Hasaranga,Sri Lanka,90,333,2316,146,04-Sep,4,15.86,6.95
+7,Adil Rashid,England,134,463.2,3470,145,04-Feb,4,23.93,7.48
+8,Adam Zampa,Australia,108,385.5,2847,134,May-19,2,21.24,7.37
+9,Haris Rauf,Pakistan,94,334.5,2807,133,Apr-18,5,21.1,8.38
+10,Ehsan Khan,Hong Kong,99,352.5,2219,132,04-May,5,16.81,6.28
+11,Mark Adair,Ireland,92,329.2,2556,132,Apr-13,4,19.36,7.76
+12,Mitchell Santner,New Zealand,122,419,2976,130,04-Nov,3,22.89,7.1
+13,S Lamichhane,ICC/NEP,68,259.4,1567,129,05-Sep,3,12.14,6.03
+14,Rizwan Butt,Bahrain,81,289.4,1932,127,06-Sep,3,15.21,6.66
+15,Shaheen Shah Afridi,Pakistan,96,347.3,2680,126,Apr-22,2,21.26,7.71
+16,H Ssenyondo,Uganda,95,320.1,1681,124,05-Aug,7,13.55,5.25
+17,SO Ngoche,Kenya,104,346.4,2042,120,Apr-14,3,17.01,5.89
+18,Junaid Siddique,U.A.E.,84,310.5,2345,113,04-Dec,5,20.75,7.54
+19,Shadab Khan,Pakistan,112,370.1,2730,112,04-Aug,3,24.37,7.37
+20,Bilal Khan,Oman,79,283,1919,110,Apr-19,3,17.44,6.78
+21,Richard Ngarava,Zimbabwe,90,316.2,2310,108,Apr-16,2,21.38,7.3
+22,Chris Jordan,England,95,325.3,2847,108,04-Jun,4,26.36,8.74
+23,Lasith Malinga,Sri Lanka,84,299.5,2225,107,05-Jun,1,20.79,7.42
+24,Arshdeep Singh,India,69,235.2,1966,107,04-Sep,2,18.37,8.35
+25,Karan KC,NEP,85,276.1,2132,106,May-21,3,20.11,7.71
+26,Taskin Ahmed,Bangladesh,86,303.2,2353,106,Apr-16,3,22.19,7.75
+27,Virandeep Singh,MAS,108,263.3,1482,105,04-May,4,14.11,5.62
+28,Mohammad Nabi,Afghanistan,145,402.4,2949,104,04-Oct,3,28.35,7.32
+29,AR Ramjani,Uganda,65,223.1,1070,102,May-17,4,10.49,4.79
+30,Sikandar Raza,Zimbabwe,127,346,2339,102,May-18,2,22.93,6.76
+31,Jasprit Bumrah,India,81,284.4,1810,101,03-Jul,0,17.92,6.35
+32,Aizaz Khan,Hong Kong,96,269.5,2130,99,Apr-26,2,21.51,7.89
+33,Hardik Pandya,India,121,318.5,2621,99,Apr-16,3,26.47,8.22
+34,Shahid Afridi,Pakistan,99,361.2,2396,98,04-Nov,3,24.44,6.63
+35,Jason Holder,West Indies,86,303.4,2607,97,May-27,4,26.87,8.58
+36,DM Nakrani,Uganda,82,258,1468,96,06-Jul,2,15.29,5.68
+37,Yuzvendra Chahal,India,80,294,2409,96,Jun-25,2,25.09,8.19
+38,Z Bimenyimana,Rwanda,97,285.3,2036,94,03-Jul,0,21.65,7.13
+39,Pavandeep Singh,MAS,80,297.5,1796,93,Apr-16,1,19.31,6.03
+40,Blessing Muzarabani,Zimbabwe,83,288.4,2075,93,03-Aug,0,22.31,7.18
+41,M Akayezu,Rwanda,95,253.4,2028,93,04-Sep,3,21.8,7.99
+42,Bhuvneshwar Kumar,India,87,298.3,2079,90,05-Apr,3,23.1,6.96
+43,Imran Anwar,Bahrain,98,282.5,2043,90,Apr-24,1,22.7,7.22
+44,Mark Watt,Scotland,77,269.1,1880,89,May-27,2,21.12,6.98
+45,Tabraiz Shamsi,South Africa,70,251.3,1860,89,May-24,3,20.89,7.39
+46,Ali Dawood,Bahrain,62,219.5,1319,88,04-May,3,14.98,6
+47,Aqib Iqbal,Austria,79,271.1,1811,88,05-May,0,20.57,6.67
+48,Kuldeep Yadav,India,49,171.5,1174,88,May-17,3,13.34,6.83
+49,Vraj Patel,Kenya,64,230,1217,86,05-Dec,1,14.15,5.29
+50,Mohammad Nawaz,Pakistan,86,258.2,1851,86,May-19,0,21.52,7.16
+51,Craig Young,Ireland,72,237.1,1920,86,Apr-13,3,22.32,8.09
+52,Saeed Ajmal,Pakistan,64,238.2,1516,85,Apr-19,4,17.83,6.36
+53,Umar Gul,Pakistan,60,200.3,1443,85,05-Jun,4,16.97,7.19
+54,Safyaan Sharif,Scotland,75,249.4,2013,85,Apr-24,2,23.68,8.06
+55,AM Kimote,Tanzania,77,199.3,1402,84,Apr-13,2,16.69,7.02
+56,Paul van Meekeren,Netherlands,77,255,1811,84,04-Nov,2,21.55,7.1
+57,CW Perchard,Jersey,53,183,1136,83,May-17,3,13.68,6.2
+58,George Dockrell,Ireland,149,266.2,1905,83,Apr-20,1,22.95,7.15
+59,Akeal Hosein,West Indies,87,299.2,2170,83,05-Nov,2,26.14,7.24
+60,Trent Boult,New Zealand,61,231.3,1779,83,Apr-13,2,21.43,7.68
+61,Joshua Little,Ireland,74,272,2057,82,Apr-23,2,25.08,7.56
+62,Sompal Kami,NEP,86,269,1923,81,Mar-20,0,23.74,7.14
+63,Axar Patel,India,84,245.1,1771,81,03-Sep,0,21.86,7.22
+64,MNM Aslam,Kuwait,75,257.4,1584,80,04-May,3,19.8,6.14
+65,IO Okpe,Nigeria,80,222,1494,80,May-25,0,18.67,6.72
+66,BM Scholtz,Namibia,76,252.4,1564,79,04-Dec,2,19.79,6.18
+67,Josh Hazlewood,Australia,60,224.4,1680,79,04-Dec,4,21.26,7.47
+68,Mitchell Starc,Australia,65,243,1881,79,Apr-20,1,23.81,7.74
+69,DJ Bravo,West Indies,91,250.5,2036,78,Apr-19,3,26.1,8.11
+70,Dushmantha Chameera,Sri Lanka,69,251,1992,77,Apr-17,2,25.87,7.93
+71,Kagiso Rabada,South Africa,70,248.1,2091,77,Mar-18,0,27.15,8.42
+72,F Nsubuga,Uganda,72,245.5,1158,76,03-Aug,0,15.23,4.71
+73,Mujeeb Ur Rahman,Afghanistan,58,214.4,1388,76,May-20,2,18.26,6.46
+74,F Banunaek,Indonesia,75,218.5,1479,76,Apr-17,1,19.46,6.75
+75,Yasim Murtaza,Hong Kong,68,229,1461,75,04-Sep,1,19.48,6.37
