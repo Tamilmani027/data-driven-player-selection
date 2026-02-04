@@ -132,24 +132,9 @@ The project includes multiple data visualizations using Matplotlib and Seaborn t
 
 These visualizations support the data mining and machine learning results by providing clear insights into player performance and squad balance.
 
-## How to Run the Project
-
-```bash
-pip install -r requirements.txt
-python main.py
-```
-
----
-
 ## Output
 
-* Final IPL squad with selected players
-* Player impact scores and predicted runs
-* Auction dashboard exported as:
-
-```
-ipl_auction_dashboard.csv
-```
+* Final IPL squad along with player selections, visual analysis, and comparisons.
 
 ---
 
