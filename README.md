@@ -1,5 +1,5 @@
 
-# Data-Driven Player Selection for IPL Auction
+# Data-Driven Player Selection 
 
 ## Project Overview
 
