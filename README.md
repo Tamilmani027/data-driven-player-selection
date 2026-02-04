@@ -51,7 +51,7 @@ Data-Driven-Player-Selection/
 │   ├── t20_batting_intl.csv
 │   └── t20_bowling_intl.csv
 │
-├──  main.py
+├── data-driven-player-selection.ipynb
 │  
 ├── README.md
 ```
@@ -118,6 +118,19 @@ Missing values are handled using **data imputation**.
 * Assists in future performance estimation
 
 ---
+
+## Data Visualization
+The project includes multiple data visualizations using Matplotlib and Seaborn to improve interpretability.
+
+### Visualizations Implemented
+- Strike rate comparison of batsmen
+- Analysis of boundary-hitting ability (4s vs 6s)
+- Wickets taken by bowlers
+- Economy rate comparison of bowlers
+- Squad composition by player roles
+- Heatmap representing player-role distribution
+
+These visualizations support the data mining and machine learning results by providing clear insights into player performance and squad balance.
 
 ## How to Run the Project
 
