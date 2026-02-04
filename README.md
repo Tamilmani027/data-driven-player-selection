@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This mini project focuses on **data-driven player selection** for an IPL-style auction using player performance data from **league** and **international T20 matches**.
+This mini project focuses on **data-driven player selection** for an IPL-style team using player performance data from **league** and **international T20 matches**.
 The system combines **clustering, regression, and performance scoring** to identify suitable batsmen, all-rounders, and bowlers under a budget-friendly strategy.
 
 ---
