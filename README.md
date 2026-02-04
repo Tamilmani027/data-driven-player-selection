@@ -1,14 +1,14 @@
 
-# 🏏 Data-Driven Player Selection for IPL Auction
+# Data-Driven Player Selection for IPL Auction
 
-## 📌 Project Overview
+## Project Overview
 
 This mini project focuses on **data-driven player selection** for an IPL-style auction using player performance data from **league** and **international T20 matches**.
 The system combines **clustering, regression, and performance scoring** to identify suitable batsmen, all-rounders, and bowlers under a budget-friendly strategy.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze batting and bowling performance using historical data
 * Group players based on batting behavior using clustering
@@ -18,14 +18,14 @@ The system combines **clustering, regression, and performance scoring** to ident
 
 ---
 
-## 🧠 Problem Statement
+## Problem Statement
 
 Player selection in auctions is often subjective and experience-based.
 This project uses **machine learning and statistical techniques** to support **objective and data-driven squad selection**, improving fairness and decision accuracy.
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * **Language:** Python
 * **Libraries:**
@@ -40,7 +40,7 @@ This project uses **machine learning and statistical techniques** to support **o
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Data-Driven-Player-Selection/
@@ -53,14 +53,12 @@ Data-Driven-Player-Selection/
 │
 ├──  main.py
 │  
-├── outputs/
-│   └── ipl_auction_dashboard.csv
 ├── README.md
 ```
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 The dataset includes:
 
@@ -73,7 +71,7 @@ Missing values are handled using **data imputation**.
 
 ---
 
-## 🔄 Methodology
+## Methodology
 
 1. **Data Collection & Cleaning**
    League and international batting/bowling datasets are merged and cleaned.
@@ -107,21 +105,21 @@ Missing values are handled using **data imputation**.
 
 ---
 
-## 🤖 Machine Learning Techniques Used
+## Machine Learning Techniques Used
 
-### 🔹 K-Means Clustering
+### K-Means Clustering
 
 * Groups players based on batting characteristics
 * Helps identify high-impact and low-impact batters
 
-### 🔹 Linear Regression
+### Linear Regression
 
 * Predicts expected runs for each player
 * Assists in future performance estimation
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ```bash
 pip install -r requirements.txt
@@ -130,7 +128,7 @@ python main.py
 
 ---
 
-## 📈 Output
+## Output
 
 * Final IPL squad with selected players
 * Player impact scores and predicted runs
@@ -142,7 +140,7 @@ ipl_auction_dashboard.csv
 
 ---
 
-## 📌 Applications
+## Applications
 
 * IPL / franchise auctions
 * Sports analytics
@@ -151,7 +149,7 @@ ipl_auction_dashboard.csv
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Add bowling impact score
 * Use Random Forest or XGBoost
@@ -160,7 +158,7 @@ ipl_auction_dashboard.csv
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Tamilmani C**
 MCA 
