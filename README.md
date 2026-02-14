@@ -6,8 +6,6 @@
 This mini project focuses on **data-driven player selection** for an IPL-style team using player performance data from **league** and **international T20 matches**.
 The system combines **clustering, regression, and performance scoring** to identify suitable batsmen, all-rounders, and bowlers under a budget-friendly strategy.
 
----
-
 ## Objectives
 
 * Analyze batting and bowling performance using historical data
@@ -16,14 +14,10 @@ The system combines **clustering, regression, and performance scoring** to ident
 * Rank and select players for an IPL squad
 * Generate a final auction dashboard
 
----
-
 ## Problem Statement
 
 Player selection in auctions is often subjective and experience-based.
 This project uses **machine learning and statistical techniques** to support **objective and data-driven squad selection**, improving fairness and decision accuracy.
-
----
 
 ## Technologies Used
 
@@ -37,8 +31,6 @@ This project uses **machine learning and statistical techniques** to support **o
   * K-Means Clustering
   * Linear Regression
 * **Tools:** Git, GitHub
-
----
 
 ## Project Structure
 
@@ -56,8 +48,6 @@ Data-Driven-Player-Selection/
 ├── README.md
 ```
 
----
-
 ## Dataset Description
 
 The dataset includes:
@@ -68,8 +58,6 @@ The dataset includes:
 * Data from league and international T20 matches
 
 Missing values are handled using **data imputation**.
-
----
 
 ## Methodology
 
@@ -103,8 +91,6 @@ Missing values are handled using **data imputation**.
    * Budget-friendly players are prioritized
    * Final squad is generated
 
----
-
 ## Machine Learning Techniques Used
 
 ### K-Means Clustering
@@ -116,8 +102,6 @@ Missing values are handled using **data imputation**.
 
 * Predicts expected runs for each player
 * Assists in future performance estimation
-
----
 
 ## Data Visualization
 The project includes multiple data visualizations using Matplotlib and Seaborn to improve interpretability.
@@ -136,8 +120,6 @@ These visualizations support the data mining and machine learning results by pro
 
 * Final IPL squad along with player selections, visual analysis, and comparisons.
 
----
-
 ## Applications
 
 * IPL / franchise auctions
@@ -145,16 +127,12 @@ These visualizations support the data mining and machine learning results by pro
 * Talent scouting
 * Decision support systems
 
----
-
 ## Future Enhancements
 
 * Add bowling impact score
 * Use Random Forest or XGBoost
 * Build a web-based auction dashboard
 * Real-time data integration
-
----
 
 ## Author
 
